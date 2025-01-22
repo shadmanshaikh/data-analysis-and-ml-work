@@ -5,4 +5,7 @@ This repository contains my work on data analysis and machine learning.
 
 ## Listing All Data Analysis Work
 
-(Gem Stone Quality Analysis)[https://github.com/shadmanshaikh/gemstone_quality_analysis]
+- [Gem Stone Quality Analysis](https://github.com/shadmanshaikh/gemstone_quality_analysis)
+
+- [Wine Quality Analysis](https://github.com/shadmanshaikh/playground_series_season3)
+
