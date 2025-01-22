@@ -5,17 +5,20 @@ This repository contains my work on data analysis and machine learning.
 
 ## Listing All PowerBI / Software Analysis Projects
 
-- []()
+- [Airline Analysis](https://github.com/shadmanshaikh/airline-analysis/tree/main)
+
+- [Customer Churn Analysis](https://github.com/shadmanshaikh/customer-churn-analysis)
 
 ## Listing All Data Analysis Projects in Python
 
-- [Classical Machine Learning Algorithms](https://github.com/shadmanshaikh/ml_algo_from_scratch)
 
 - [Gem Stone Quality Analysis](https://github.com/shadmanshaikh/gemstone_quality_analysis)
 
 - [Wine Quality Analysis](https://github.com/shadmanshaikh/playground_series_season3)
 
 ## Listing All Machine Learning and AI Work
+
+- [Classical Machine Learning Algorithms](https://github.com/shadmanshaikh/ml_algo_from_scratch)
 
 - [Fraud Detection System](https://github.com/shadmanshaikh/fraud-detection-system)
 
@@ -35,6 +38,6 @@ This repository contains my work on data analysis and machine learning.
 
 - [Multi Disease Prediction System](https://github.com/shadmanshaikh/multi-disease-prediction-system)
 
-## Machine Learning Computer Vision Projects
+## Computer Vision Projects
 
 - [Knee Bend Counter](https://github.com/shadmanshaikh/kneebend)
